@@ -1,0 +1,8 @@
+name: FancyFree
+version: '${version}'
+author: Fancy_Legend
+main: sb.fancylegend.fancyfree.FancyFree
+api-version: '1.16'
+commands:
+  free:
+    usage: /free

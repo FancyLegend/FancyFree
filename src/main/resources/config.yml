@@ -1,0 +1,11 @@
+reward-commands:
+  - points give %player% 5000
+
+messages:
+  already-received: "§x§f§1§0§0§0§0▶ &fПромокод уже был активирован ранее!"
+  ip-already-received: "§x§f§1§0§0§0§0▶ &fПромокод уже был активирован ранее с вашего IP!"
+  reward:
+    - "&f"
+    - "§x§0§0§c§8§f§f▶ &fПромокод активирован! Вы получили:"
+    - "   §x§0§0§c§8§f§f* &f5,000 коинов"
+    - "&f"
